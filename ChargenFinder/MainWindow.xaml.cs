@@ -39,7 +39,6 @@ namespace ChargenFinder
                 Console.WriteLine("More than 23 integers in TextBox!");
             }
             
-
         }
         
         
